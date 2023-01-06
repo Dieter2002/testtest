@@ -1,3 +1,3 @@
 import os
 
-print("starting service...")
+print("starting service")
